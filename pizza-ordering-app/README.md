@@ -30,9 +30,13 @@ pizza-ordering-app
 
 ## Usage
 
-1. Run the application:
+1. Run the application directly in your terminal:
    ```
-   python src/app.py
+   python src/app logic.py
+   ```
+3. For the Graphical User Interface, run the app with gui in your IDE
+   ```
+   python src/app with gui.py
    ```
 
 2. Follow the prompts in the GUI to place your pizza order.
@@ -40,12 +44,9 @@ pizza-ordering-app
 ## Dependencies
 
 - Python 3.x
-- Tkinter or PyQt (depending on the GUI library used)
+- Tkinter 
 
 ## Contributing
 
 Feel free to submit issues or pull requests for improvements or bug fixes. 
 
-## License
-
-This project is licensed under the MIT License.
