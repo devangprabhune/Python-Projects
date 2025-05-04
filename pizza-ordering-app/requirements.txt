@@ -1,0 +1,4 @@
+Tkinter is included with Python, so you don't need to install it separately. However, if you plan to use PyQt, you would need to include it in your requirements. Here’s the contents for your `requirements.txt` file:
+
+Tkinter
+PyQt5
